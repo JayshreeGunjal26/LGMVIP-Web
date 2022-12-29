@@ -6,4 +6,5 @@ Technologies used to create this Personal Portfolio Website -
 •	HTML
 
 •	CSS 
+
 •	JavaScript 
